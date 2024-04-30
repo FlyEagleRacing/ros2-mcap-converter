@@ -11,6 +11,10 @@ pip3 install mcap
 pip3 install mcap-ros2-support
 ```
 
+## If you have installed ROS2
+
+try `ros2_version` folder will be probably better.
+
 ## Run
 
 usage: `convert.py [-h] [--output-json-dir OUTPUT_JSON_DIR] [--export-topic string [string ...]] [--noexport-topic string [string ...]] input`
